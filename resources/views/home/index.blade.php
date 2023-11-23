@@ -124,17 +124,15 @@
                     </div>
 
                     <div class="row mt-5">
-                        <div class="col-12">
-                            <h5>Behance:</h5>
+                        <div class="col-12">                            
                             <a target="_blank" href="https://www.behance.net/mateusdepaula2">
-                                https://www.behance.net/mateusdepaula2
+                                <h5>Behance:</h5>
                             </a>
 
                             <hr>
-
-                            <h5>Bitbucket</h5>
-                            <a target="_blank" href="https://bitbucket.org/Mateus_DePaula/workspace/repositories">
-                                https://bitbucket.org/Mateus_DePaula/workspace/repositories
+                            
+                            <a target="_blank" href="https://github.com/mateus-dpaula10?tab=repositories">
+                                <h5>Github</h5>
                             </a>
                         </div>
                     </div>
